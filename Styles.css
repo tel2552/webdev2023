@@ -1,0 +1,21 @@
+/* th, td {
+    border: solid red 1px;
+} */
+.profile {
+    border-radius: 50%;
+}
+.table1 {
+    border: solid red 1px;
+}
+p {
+    color: rgb(241, 238, 51);
+}
+.table2 {
+    border: dashed red 2px;
+}
+h3 {
+    color: red;
+}
+body{
+    background-color: #EF9595;
+}
