@@ -1,21 +1,32 @@
-/* th, td {
-    border: solid red 1px;
-} */
 .profile {
     border-radius: 50%;
 }
-.table1 {
-    border: solid red 1px;
+.Power {
+    border: solid #FF7F00 3px;
 }
-p {
-    color: rgb(241, 238, 51);
+.bottom {
+    background-color:rgb(205, 179, 147);
 }
-.table2 {
-    border: dashed red 2px;
+.contact {
+    background-color: #FF7F00;
+}
+.header{
+    background-color: #FF7F00;
+}
+.middle{
+    background-color: bisque;
+}
+body {
+    margin: 0;
 }
 h3 {
-    color: red;
+    color: #2e2d2c;
+    margin-top: 0;
 }
-body{
-    background-color: #EF9595;
+hr {
+    border-style: dotted none none;
+    width: 30%;
+    border-color: rgb(216, 22, 22);
+    border-width:5px;
+    margin-bottom: 0;
 }
